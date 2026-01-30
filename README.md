@@ -53,7 +53,7 @@ Each project is stored in its own folder and contains:
 
 ## 🎓 Certificate
 
-[JavaScript Projects Certificate (Udemy)](js Project Certificate-udemy.pdf)
+[JavaScript Projects Certificate (Udemy)](js-project-certificate-udemy.pdf)
 
 ---
 
